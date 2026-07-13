@@ -1,0 +1,11 @@
+data/raw/
+data/processed/
+outputs/checkpoints/*.pt
+outputs/predictions/*.jpg
+__pycache__/
+*.pyc
+.venv/
+venv/
+.kaggle/
+*.egg-info/
+.DS_Store
